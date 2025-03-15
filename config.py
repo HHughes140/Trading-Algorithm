@@ -1,8 +1,8 @@
 # config.py
 
 # Alpaca API credentials (hardcoded for simplicity)
-ALPACA_API_KEY = "AK0NR0SILT883MYFSY79"  # Replace with your actual Alpaca API key
-ALPACA_SECRET_KEY = "htp4gV6EdchSFjdKYzZu0Qa6Xu5xU0XzRYlRMAWN"  # Replace with your actual Alpaca secret key
+ALPACA_API_KEY = ""  # Replace with your actual Alpaca API key
+ALPACA_SECRET_KEY = ""  # Replace with your actual Alpaca secret key
 
 # Base URL for Alpaca (paper trading environment)
 BASE_URL = "https://api.alpaca.markets"
